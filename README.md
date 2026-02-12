@@ -1,5 +1,5 @@
 
-<h1>Hi, I'm Sandy, a <a href="https://linkedin.com/in/SandySpradlin">Cyber Security Professional</a>💻/h1>
+<h1>Hi, I'm Sandy, a <a href="https://linkedin.com/in/SandySpradlin">Cyber Security Professional 💻/a>/h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
